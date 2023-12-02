@@ -1,5 +1,5 @@
 import { createBrowserRouter } from 'react-router-dom'
-import { MAIN_ROUTE } from '~/shared/router/paths'
+import MAIN_ROUTE from '~/shared/router/paths'
 import { MainPage } from '~/pages'
 
 const router = createBrowserRouter([
